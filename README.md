@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @SiddharthS0703I'm a third year student in CS Engineering. I'm passionate about Competitive Programming, Web Development and Open Source. I love working with new technologies and languages
-- 👀 I’m interested in  in Front-end Web Development and Machine Learning Algorithms.
-- 🌱 I’m currently learning Machine Learning concepts with Python
+- 💡 Building AI products for India’s next billion.
+- 👨‍💻 Ex-Amazon | Ex-Kotak | Founder @ SwasthiQ
+- 🚀 From 0→1 on full-stack, infra, & product
+- 🧬 Turning messy healthcare data into insights
+- 📍 New Delhi
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me 6sharmasiddharth@gmail.com
+- 📫 How to reach me sid@swasthiq.in
 
 <!---
 SiddharthS0703/SiddharthS0703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
