@@ -1,4 +1,4 @@
-- 💡 Building AI products for India’s next billion.
+- 💡 Building AI products for India’s next billion - www.swasthiq.in
 - 👨‍💻 Ex-Amazon | Ex-Kotak | Founder @ SwasthiQ
 - 🚀 From 0→1 on full-stack, infra, & product
 - 🧬 Turning messy healthcare data into insights
